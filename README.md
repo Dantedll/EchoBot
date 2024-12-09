@@ -6,10 +6,10 @@ Proyecto de introducción al desarrollo de bots de Telegram utilizando Python y 
 ## Características
 - Bot simple que repite los mensajes recibidos
 - Implementación de comando `/start`
-- Muestra información básica del usuario
+- Responde a los mensajes de "hola" y "Adios"
 
 ## Requisitos
-- Python 3.8+
+- Python 3.8.10
 - Librería python-telegram-bot
 
 ## Configuración
@@ -23,12 +23,23 @@ Proyecto de introducción al desarrollo de bots de Telegram utilizando Python y 
    **Importante:** Añadir `config.py` al `.gitignore`
 
 ## Ejecución
-```bash
 python bot.py
-```
 
 ## Objetivos del Proyecto
 - Aprender conceptos básicos de desarrollo de bots
 - Practicar programación con Python
 - Entender la interacción con APIs de mensajería
 - Implementar buenas prácticas de seguridad con credenciales
+
+
+## URL Repositorio
+https://github.com/Dantedll/EchoBot/
+
+##ID del Boot
+DanielEchoBot
+
+
+
+
+
+
